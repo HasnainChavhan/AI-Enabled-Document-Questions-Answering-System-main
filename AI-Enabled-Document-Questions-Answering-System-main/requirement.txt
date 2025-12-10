@@ -1,0 +1,8 @@
+streamlit
+edge-tts
+python-docx
+PyPDF2
+langdetect
+SpeechRecognition
+playsound
+requests
