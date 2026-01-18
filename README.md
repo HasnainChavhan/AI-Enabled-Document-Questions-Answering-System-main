@@ -12,46 +12,46 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **AI-Enabled Document Question Answering System** is a production-ready intelligent assistant designed to read documents, extract knowledge, and answer queries using **Local LLMs via Ollama**.
 
 This system performs:
 
-- 📄 PDF/TXT document ingestion  
-- 🧩 Semantic chunking  
-- 🔢 Embedding generation (via Ollama)  
-- 🔍 Semantic retrieval using cosine similarity  
-- 🤖 LLM-powered reasoning with citations  
-- 🎤 Voice input  
-- 🔊 Voice output  
-- 📝 Query logging + traceability  
+-  PDF/TXT document ingestion  
+- Semantic chunking  
+-  Embedding generation (via Ollama)  
+-  Semantic retrieval using cosine similarity  
+-  LLM-powered reasoning with citations  
+-  Voice input  
+-  Voice output  
+-  Query logging + traceability  
 
 It's perfect for **legal analysis, research, compliance, academic work, enterprise documentation, and knowledge extraction**.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🧠 Local LLM-Powered Q&A  
+###  Local LLM-Powered Q&A  
 Runs offline using Ollama models: Llama-3, Mistral, Phi-3, etc.
 
-### 📂 Multi-Document Upload  
+### Multi-Document Upload  
 Handles multiple PDFs / text files.
 
-### 🔍 RAG-Based Answering  
+###  RAG-Based Answering  
 Retrieval-Augmented Generation ensures accurate, citation-based answers.
 
-### 🎤 Voice Input  
+### Voice Input  
 Hands-free conversational usage.
 
-### 🔊 Voice Output  
+### Voice Output  
 Reads responses aloud.
 
-### 🖥 Modern Streamlit UI  
+### Modern Streamlit UI  
 Beautiful, responsive interface.
 
-### 🛡 SQLite Database  
+### SQLite Database  
 Stores documents, embeddings, chunks & logs.
 
 ---
@@ -60,7 +60,7 @@ Stores documents, embeddings, chunks & logs.
 
 
 
-## 🧩 System Architecture
+## System Architecture
 
 ```mermaid
 flowchart TB
